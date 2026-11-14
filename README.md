@@ -1,36 +1,117 @@
-<h1 align="center">Hello Guys 👋, I'm Nitesh Singh Mehra</h1>
-<h3 align="center">Learning Deeply. Building Intelligently</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh-45&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh-45" /> </p>
+<h1>Hi, I'm Nitesh Singh Mehra 👋</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitesh-45" alt="nitesh-45" /></a> </p>
+<a href="https://github.com/Nitesh-45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=620&lines=Learning+Deeply.+Building+Intelligently.;AI%2FML+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI;Currently+building+an+AI+Real-Time+Gym+Coach" alt="Typing animation: Learning Deeply. Building Intelligently." />
+</a>
 
-- 🔭 I’m currently working on [AI-RealTime-GYM-Coach](https://github.com/Nitesh-45/AI-RealTime-GYM-Coach)
+<br/>
 
-- 🌱 I’m currently learning **Agentic AI**
+<a href="https://www.linkedin.com/in/nitesh-singh-mehra-18nsm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://explaintechwithnitesh.blogspot.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+<a href="https://www.kaggle.com/niteshsinghmehra"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://leetcode.com/u/niteshsinghmehra45/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.hackerrank.com/@niteshsingh45"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+<a href="mailto:niteshsinghmehra17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-- 📝 I regularly write articles on [https://explaintechwithnitesh.blogspot.com/](https://explaintechwithnitesh.blogspot.com/)
+<br/><br/>
 
-- 💬 Ask me about **AI/ML - LLM - RAG - AGENTIC AI**
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNitesh-45&query=%24.public_repos&label=Public%20Repos&color=0A66C2&style=flat-square" alt="Public repos" />
+<img src="https://img.shields.io/github/followers/Nitesh-45?label=Followers&style=flat-square&color=0A66C2" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=Nitesh-45&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 
-- 📫 How to reach me **niteshsinghmehra17@gmail.com**
+</div>
 
-- ⚡ Fun fact **A neural network is inspired by the human brain, but it doesn't work exactly like one.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/nitesh-singh-mehra-18nsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nitesh-singh-mehra-18nsm" height="30" width="40" /></a>
-<a href="https://kaggle.com/niteshsinghmehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="niteshsinghmehra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@niteshsingh45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@niteshsingh45" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/niteshsinghmehra45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niteshsinghmehra45" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nitesh singh mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nitesh singh mehra" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 🔭 Currently building **[AI-RealTime-GYM-Coach](https://github.com/Nitesh-45/AI-RealTime-GYM-Coach)**
+- 🌱 Currently learning **Agentic AI**
+- 📝 I write articles on [explaintechwithnitesh.blogspot.com](https://explaintechwithnitesh.blogspot.com/)
+- 💬 Ask me about **AI/ML, LLMs, RAG and Agentic AI**
+- 📫 Reach me at **niteshsinghmehra17@gmail.com**
+- ⚡ Fun fact: a neural network is inspired by the human brain, but it doesn't work exactly like one.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitesh-45&show_icons=true&locale=en&layout=compact" alt="nitesh-45" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitesh-45&show_icons=true&locale=en" alt="nitesh-45" /></p>
+## 🚀 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh-45&" alt="nitesh-45" /></p>
+<!-- EDIT: check each description and tech list so they match your repos exactly -->
+
+| Project | What it does | Tech |
+|---|---|---|
+| **[AI-RealTime-GYM-Coach](https://github.com/Nitesh-45/AI-RealTime-GYM-Coach)** | Real-time AI coaching for gym workouts using the webcam | Python · OpenCV |
+| **[AI-Resume-ATS-Score-Checker](https://github.com/Nitesh-45/AI-Resume-ATS-Score-Checker)** | Scores a resume against a job description, ATS-style | Python · NLP · Flask |
+| **[Neural-Art](https://github.com/Nitesh-45/Neural-Art)** | Neural-network-based image / art generation | Python · Deep Learning |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**<br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+
+**AI / ML / Data**<br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+
+**Backend / DevOps / Databases**<br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nitesh-45&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-45&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats: stars, commits, PRs, issues" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-45&layout=compact&langs_count=8&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-45&layout=compact&langs_count=8&hide_border=true" alt="Most used languages" height="170" />
+</picture>
+
+<br/>
+
+### 🔥 Contribution Streak
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Nitesh-45&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Nitesh-45&hide_border=true" alt="GitHub contribution streak" />
+</picture>
+
+### 📈 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-45&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-45&bg_color=ffffff&color=0969da&line=0969da&point=1f2328&area=true&area_color=0969da&hide_border=true" alt="Contribution activity graph" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ If you find something useful here, a star on a repo is always appreciated.
+
+</div>
