@@ -82,12 +82,21 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nitesh-45&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-45&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats: stars, commits, PRs, issues" height="170" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitesh-45/Nitesh-45/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/Nitesh-45/Nitesh-45/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" width="49%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-45&layout=compact&langs_count=8&hide_border=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-45&layout=compact&langs_count=8&hide_border=true" alt="Most used languages" height="170" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitesh-45/Nitesh-45/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/Nitesh-45/Nitesh-45/main/profile-summary-card-output/github/3-stats.svg" alt="GitHub stats: stars, commits, PRs, issues" width="49%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitesh-45/Nitesh-45/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/Nitesh-45/Nitesh-45/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Top languages by commits" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitesh-45/Nitesh-45/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/Nitesh-45/Nitesh-45/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language" width="49%" />
 </picture>
 
 <br/>
@@ -99,11 +108,11 @@
   <img src="https://streak-stats.demolab.com?user=Nitesh-45&hide_border=true" alt="GitHub contribution streak" />
 </picture>
 
-### 📈 Contribution Activity
+### 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-45&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-45&bg_color=ffffff&color=0969da&line=0969da&point=1f2328&area=true&area_color=0969da&hide_border=true" alt="Contribution activity graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitesh-45/Nitesh-45/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Nitesh-45/Nitesh-45/output/github-snake.svg" alt="Contribution graph snake animation" />
 </picture>
 
 </div>
